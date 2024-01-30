@@ -1,1 +1,6 @@
 /data
+# Ignore macOS .DS_Store files in every directory
+.DS_Store
+
+# Ignore JetBrains IDE settings folder
+.idea/
